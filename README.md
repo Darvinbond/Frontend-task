@@ -1,5 +1,5 @@
 # Frontend-task
-
+HOSTED URL: https://frontend-task-lyart.vercel.app/
 # Simple Blog Application
 
 Please fork this repo 
